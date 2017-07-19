@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         txtHello= (TextView) findViewById(R.id.hello);
-        txtHello.setText("LAlit  PAtil");
+        txtHello.setText("Abhijit Patil");
     }
 }
