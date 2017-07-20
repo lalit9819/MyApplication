@@ -7,6 +7,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     private TextView txtHello;
+   // this is Main activity page class
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
